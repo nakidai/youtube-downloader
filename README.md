@@ -14,7 +14,6 @@ Contents of the `example-config`:
 somedestination	somevideoid
 somedestination1	somevideoid1
 ```
-```
 Command:  
 ```sh
 downloader example-config
