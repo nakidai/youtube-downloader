@@ -1,5 +1,4 @@
 all: downloader
-downloader: downloader.c
-clean: downloader
-	rm -f clock
+clean:
+	rm -f downloader
 .PHONY: all clean
